@@ -1,7 +1,7 @@
 Summary:	Process DSN notifications, record them in a database
 Name:		processdsn
 Version:	1.0.0
-Release:	2
+Release:	3
 License:	Apache License
 Group:		System/Servers
 Source:		%{name}-%{version}.tar.bz2
