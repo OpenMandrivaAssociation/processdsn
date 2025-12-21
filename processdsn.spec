@@ -5,6 +5,11 @@ Release:	3
 License:	Apache License
 Group:		System/Servers
 Source:		%{name}-%{version}.tar.bz2
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires:	apr-devel
 BuildRequires:	apr-util-devel
 BuildRequires:	openldap-devel
